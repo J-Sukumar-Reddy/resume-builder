@@ -12,7 +12,7 @@ import com.itextpdf.text.pdf.PdfWriter;
 import com.itextpdf.text.pdf.PdfPTable;
 import com.itextpdf.text.pdf.PdfPCell;
 
-public class ResumeBuilderApp {
+public class PDFGeneratorGUI {
 
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> new LoginSignupGUI());
